@@ -7,10 +7,10 @@ whiskers:
   filename: "themes/{{flavor.identifier}}/catppuccin-{{flavor.identifier}}-{{accent}}.conf"
   hex_format: "0x{{A}}{{R}}{{G}}{{B}}"
 ---
-background = {{ mantle.hex }}
+background = {{ crust.hex }}
 base = {{ base.hex }}
 text = {{ text.hex }}
-alternate_base = {{ crust.hex }}
+alternate_base = {{ mantle.hex }}
 bright_text = {{ rosewater.hex }}
 accent = {{ flavor.colors[accent].hex }}
 accent_secondary = {{ flavor.colors[accent].hex }}
