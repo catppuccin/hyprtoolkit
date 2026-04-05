@@ -43,7 +43,7 @@
 ## 🙋 FAQ
 
 - Q: **_"What is the app in the screenshot?"_**\
-  A: The app is [hyprlauncher](https://github.com/hyprwm/hyprlauncher). It is one of the apps that uses the hyprtoolkit theme.
+  A: The app is [hyprpwcenter](https://github.com/hyprwm/hyprpwcenter). It is one of the apps that uses the hyprtoolkit theme.
 
 ## 💝 Thanks to
 
